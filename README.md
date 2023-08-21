@@ -1,4 +1,4 @@
-# Real-Time-Face-Recognition (OpenCV) from Badger Team X
+# Face-Reg-System from Badger Team X
 
 ## Steps:
 
